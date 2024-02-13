@@ -11,10 +11,10 @@ export default {
     <footer>
         <div class="container">
             <div class="row">
-                <div class="col">
+                <div class="col-12 col-md-6  col-lg-4">
                     <AppLogo></AppLogo>
                 </div>
-                <div class="col">
+                <div class="col-12 col-md-6  col-lg-4">
                     <h3>PASTIFICIO</h3>
                     <ul class="list-unstyled">
                         <li><a href="">Il Pastificio</a></li>
@@ -24,7 +24,7 @@ export default {
                         <li><a href="">Sartoria della pasta</a></li>
                     </ul>
                 </div>
-                <div class="col">
+                <div class="col-12 col-md-6  col-lg-4">
                     <h3>PRODOTTI</h3>
                     <ul class="list-unstyled">
                         <li><a href="">Le classiche</a></li>
